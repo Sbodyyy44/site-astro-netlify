@@ -173,3 +173,5 @@ If that single language is not English, you can just replace `en` in directory l
 Note that Aglolia and Astro are not affiliated. We have no say over acceptance to the DocSearch program.
 
 If you'd prefer to remove Algolia's search and replace it with your own, check out the `src/components/Header.astro` component to see where the component is added.
+
+# site-astro-netlify
